@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  Calculator_DLL.cpp
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.cpp(7,1): warning C4273: 'calculate_init': inconsistent dll linkage
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.h(9,36): message : see previous definition of 'calculate_init'
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.cpp(12,1): warning C4273: 'add': inconsistent dll linkage
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.h(10,38): message : see previous definition of 'add'
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.cpp(16,1): warning C4273: 'subtract': inconsistent dll linkage
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.h(11,38): message : see previous definition of 'subtract'
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.cpp(20,1): warning C4273: 'multiply': inconsistent dll linkage
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.h(12,38): message : see previous definition of 'multiply'
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.cpp(25,1): warning C4273: 'divide': inconsistent dll linkage
+C:\Users\sridh\source\repos\Calculator_DLL\Calculator_DLL\Calculator_DLL.h(13,38): message : see previous definition of 'divide'
+  dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\sridh\source\repos\Calculator_DLL\Debug\Calculator_DLL.lib and object C:\Users\sridh\source\repos\Calculator_DLL\Debug\Calculator_DLL.exp
+  Calculator_DLL.vcxproj -> C:\Users\sridh\source\repos\Calculator_DLL\Debug\Calculator_DLL.dll
